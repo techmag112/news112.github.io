@@ -40,8 +40,8 @@ article a:hover {
     color: #B05459;  
 }
 
-article:nth-child(even) a > h2 {
-    background-color: grey;
+article:nth-child(even) {
+    background-color: rgb(212, 211, 211);
 }
 
 article h2 {
